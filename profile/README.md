@@ -1,6 +1,6 @@
 <div align="center">
 
-[![IWMI logo](/profile/assets/iwmi-logo.png)](https://www.iwmi.cgiar.org)
+[![IWMI logo](https://avatars.githubusercontent.com/u/79240042?s=400&u=ad463aca449e6f7c36567b7c2f07ba2023e9029c&v=4)](https://www.iwmi.org)
 
 # International Water Management Institute (IWMI) on GitHub
 
