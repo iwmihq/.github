@@ -27,7 +27,7 @@ The pinned repositories below are a good place to start.
 
 ## For IWMI researchers and staff
 
-- **Need a new repository or access?** Raise a request through the [IWMI ICT Helpdesk](iwmi-helpdesk@CGIAR.ORG).
+- **Need a new repository or access?** Raise a request through the [IWMI ICT Helpdesk](mailto:iwmi-helpdesk@CGIAR.ORG).
 <!-- - **New to GitHub?** See the IWMI GitHub guide in [`iwmi-devops`](https://github.com/iwmihq/iwmi-devops) for README templates, branching conventions and issue labels. -->
 - **Starting a project?** Give every repository a clear README, a license and a named maintainer so others can find and reuse your work.
 
